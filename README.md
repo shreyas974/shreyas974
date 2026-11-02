@@ -36,7 +36,7 @@
 
 | Project | What it does | Highlights |
 |---|---|---|
-| 🛡️ **[SENTINEX](https://github.com/shreyas974/SENTINEX)** | Multimodal industrial AI for real-time risk forecasting and adaptive intervention | IBM Z Datathon 2026 · runs on IBM LinuxONE (s390x) · 53/53 unit tests · [live demo](https://shreyas974.github.io/SENTINEX/) |
+| 🛡️ **[SENTINEX](https://github.com/shreyas974/SENTINEX)** | Multimodal industrial AI for real-time risk forecasting and adaptive intervention | IBM Z Datathon 2026 · runs on IBM LinuxONE (s390x) · 53/53 unit tests |
 | 🔐 **[CryptoShift](https://github.com/shreyas974/CryptoShift)** | Verification-gated post-quantum cryptography migration for banking systems | Quant-A-Maze 3.0 (PQC-01) · NIST FIPS 203/204 · dependency-aware migration waves · React + Python |
 | 🧩 **[ANVAYA](https://github.com/shreyas974/anvaya-product-intelligence)** | AI product intelligence & catalog enrichment — messy distributor feeds → validated 252-column data | Unihack 2026 · 128 backend + 86 frontend tests · evidence-first AI · [live app](https://anvaya-neurobots1.vercel.app) |
 | 🚦 **[SafeRoute AI](https://github.com/shreyas974/SAFEROUTE_AI)** | Recommends the *safest* route in Bengaluru, not just the shortest | ML crime-risk scoring · DBSCAN hotspots · risk-weighted Dijkstra/A* · Streamlit + Folium |
