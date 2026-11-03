@@ -4,6 +4,7 @@
 
 **AI/ML & Intelligent Systems Engineer** · building real-time AI, post-quantum security and data-intelligence products
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-shreyas974.github.io-4f46e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://shreyas974.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreyas_Gowda_G_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-gowda-g-s-2a729b388)
 [![GitHub](https://img.shields.io/badge/GitHub-shreyas974-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyas974)
 
